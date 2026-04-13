@@ -10,6 +10,7 @@ Demonstrar a correta configuração do ambiente de desenvolvimento para a lingua
 2. Clone este repositório em sua máquina local.
 3. Abra o terminal na pasta raiz do projeto.
 4. Execute o seguinte comando:
+    ```bash
     dart run hello_world.dart
 
 ## Exemplo de Saída no Terminal:
